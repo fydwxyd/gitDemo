@@ -1,0 +1,26 @@
+Arguments: 
+  /Users/aine/.nvm/versions/node/v13.11.0/bin/node /usr/local/Cellar/yarn/1.17.3/libexec/bin/yarn.js global dir
+
+PATH: 
+  /Users/aine/project/demo/gitDemo/node_modules/.bin:/Users/aine/project/demo/node_modules/.bin:/Users/aine/project/node_modules/.bin:/Users/aine/node_modules/.bin:/Users/node_modules/.bin:/node_modules/.bin:/Users/aine/.nvm/versions/node/v13.11.0/bin:/Users/aine/.nvm/versions/node/v13.11.0/bin:/Users/aine/软件/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aine/Library/Android/sdk/platform-tools:/Users/aine/Library/Android/sdk/tools
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  13.11.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EACCES: permission denied, scandir '/Users/aine/.config/yarn/link'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
